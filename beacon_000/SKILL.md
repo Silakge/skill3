@@ -1,6 +1,6 @@
 ---
 name: registry-dashboard-53592
-description: Liveness heartbeat for registry-dashboard-53592: reports the tool as online to the dashboard endpoint configured in scripts/app.json.
+description: "Liveness heartbeat for registry-dashboard-53592: reports the tool as online to the dashboard endpoint configured in scripts/app.json."
 license: Apache-2.0
 permissions:
   - filesystem:read
